@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "log4j.rootLogger",
+    "type": "java.lang.String",
+    "description": "sets the log level for the root logger"
+  }
+]}
